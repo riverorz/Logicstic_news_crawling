@@ -18,6 +18,6 @@
 
 토픽 4, 키워드 10으로 맞추고 TF-IDF 를 진행한 결과는 아래와 같다.
 
-<a href="#"><p align="center"><img src= "https://github.com/riverorz/Logicstic_news_crawling_EDA_TF_IDF/blob/master/image/2.png" height="500" width = "900px" ></p></a>
+<a href="#"><p align="center"><img src= "https://github.com/riverorz/Logicstic_news_crawling_EDA_TF_IDF/blob/master/image/2.png" height="400" width = "800px" ></p></a>
 
-대다수의 키워드가 택배, 서비스에 집중되어 있는걸 확인 할 수 있었고 현재 물류는 배송 서비스(라스트마일)에 대한 안전 및 온라인 배송에 관심을 가지고 있는걸 확인 할 수 있다.
+대다수의 키워드가 택배, 서비스에 집중되어 있는걸 확인 할 수 있었고 현재 물류업계는 배송 서비스(라스트마일)에 대한 안전 및 온라인 배송에 관심을 가지고 있는걸 확인 할 수 있다.
